@@ -1,0 +1,12 @@
+###
+1.Select the translation websites to call.
+2.Retrieve the specified text from the user’s webpage.
+3.Determine the type of text (plain text, code, machine language).
+4.Call the translation website's API to translate the text, if applicable.
+5.Use AI to compare and select the best translation result through machine learning.
+6.Process the selected result:
+  6.1 For text, further refine the translation.
+  6.2 For code, keep the source code unchanged but add AI-generated explanations as comments.
+  6.3 For machine language, handle it according to various application scenarios while ensuring it's not executed as code, but provide step-by-step explanations to the user.
+7. Replace the original webpage text with the result and allow the user to rate it to improve future machine learning selections.
+###
